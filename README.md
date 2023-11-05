@@ -9,8 +9,8 @@ I'm passionate about data and its applications in various domains. This reposito
 ## Books
 
 ### Book 1: Practical Statistics for Data Scientists
+- **Author:** Andrew Bruce, Peter Bruce
 - **Description:** "Practical Statistics for Data Scientists" is an excellent resource for data enthusiasts. It covers essential statistical concepts and their practical applications in data science. The book is filled with examples and case studies that help bridge the gap between theory and real-world data analysis.
-- **Key Takeaways:** 
-  - I've gained a deep understanding of various statistical techniques and how to apply them to real data.
-  - The book's practical examples have equipped me with the skills to make data-driven decisions and draw meaningful insights from data.
+- **Code:** [Link to the code](https://github.com/yourusername/data-learning-repo/tree/main/projects/project2)
+
 
